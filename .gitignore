@@ -47,6 +47,7 @@ Diary.md
 *.sh
 save_data.py
 **/*.pth
-**/*.png
-**/*.ric
+my_tests/10_test_classification_doe/bates/DOE_outputs/plots
+# **/*.png
+# **/*.ric
 **/*.pkl

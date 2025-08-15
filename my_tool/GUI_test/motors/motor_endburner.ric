@@ -1,0 +1,17 @@
+data:
+  config: {ambPressure: 101324.99674500001, burnoutThrustThres: 0.1, burnoutWebThres: 0.00025400050800101603,
+    igniterPressure: 1034250.0000000001, mapDim: 750, maxMassFlux: 1406.4697609001405,
+    maxPressure: 10342500.000000002, minPortThroat: 2.0, timestep: 0.03}
+  grains:
+  - properties: {diameter: 0.0921364847310733, length: 0.7994705109291047}
+    type: End Burner
+  nozzle: {convAngle: 45.0, divAngle: 15.0, efficiency: 0.9, exit: 0.025400050800101603,
+    throat: 0.00900718590142969, throatLength: 0.0}
+  propellant:
+    density: 1600.0
+    name: SPL Propellant
+    tabs:
+    - {a: 4.0e-05, k: 1.23, m: 22.05, maxPressure: 10000000.0, minPressure: 0.0, n: 0.48,
+      t: 2480.0}
+type: !!python/object/apply:uilib.fileIO.fileTypes [3]
+version: !!python/tuple [0, 4, 0]

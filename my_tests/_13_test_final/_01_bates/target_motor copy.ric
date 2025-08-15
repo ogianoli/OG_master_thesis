@@ -1,0 +1,45 @@
+data:
+  config:
+    ambPressure: 101324.99674500001
+    burnoutThrustThres: 0.1
+    burnoutWebThres: 0.00025400050800101603
+    flowSeparationWarnPercent: 0.05
+    mapDim: 750
+    maxMassFlux: 1406.4697609001405
+    maxPressure: 10342500.000000002
+    minPortThroat: 2.0
+    sepPressureRatio: 0.4
+    timestep: 0.03
+  grains:
+  - properties:
+      coreDiameter: 0.02
+      diameter: 0.065
+      inhibitedEnds: Neither
+      length: 0.2
+    type: BATES
+  nozzle:
+    convAngle: 65.0
+    divAngle: 15.0
+    efficiency: 0.9
+    erosionCoeff: 0.0
+    exit: 0.015
+    slagCoeff: 0.0
+    throat: 0.011
+    throatLength: 0.0
+  propellant:
+    density: 1630.0
+    name: SRM Propellant
+    tabs:
+    - a: 4.0e-05
+      k: 1.23
+      m: 22.05
+      maxPressure: 10000000.0
+      minPressure: 0.0
+      n: 0.35
+      t: 2480.0
+type: !!python/object/apply:uilib.fileIO.fileTypes
+- 3
+version: !!python/tuple
+- 0
+- 6
+- 0
