@@ -1,0 +1,23 @@
+Run info: 
+
+bates: pop = 30, gen = 50
+
+star: pop = 50, gen = 50
+
+endburner: pop = 20, gen = 50
+
+
+variables bounds values: target * or / 250%
+
+data: 
+
+bates:   
+- properties: {diameter: 0.065, inhibitedEnds: Neither, length: 0.2,
+      coreDiameter: 0.02}
+
+star: 
+- properties: {diameter: 0.065, inhibitedEnds: Neither, length: 0.2,
+      numPoints: 6, pointLength: 0.015, pointWidth: 0.008}
+
+endburner:
+- properties: {diameter: 0.065, length: 0.2}

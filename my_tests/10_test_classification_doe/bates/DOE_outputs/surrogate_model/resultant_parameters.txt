@@ -1,0 +1,5 @@
+Predicted Parameters from Surrogate Model:
+diameter: 0.114298
+throat: 0.019245
+length: 0.155811
+coreDiameter: 0.039028
