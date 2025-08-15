@@ -1,0 +1,52 @@
+# myenv39/
+# myenv312/
+# pagmo2/
+# pygmo_example.py
+# # data/*
+# WORK/*
+# my_tests/10_test_classification_doe/star/DOE_outputs/*
+# my_tests/10_test_classification_doe/endburner/DOE_outputs/*
+# # master_thesis/my_tests/10_test_classification_doe/bates/DOE_outputs/pressure_curves.csv
+# # my_tests/10_test_classification_doe/star
+
+# my_tests/10_test_classification_doe/bates/DOE_outputs/*
+# my_functions/__pycache__/
+# my_functions/transformer/__pycache__
+# */__pycache__/
+# my_functions/CNN/data/*
+# my_functions/CNN/tensorboard/*
+# my_tool/GUI_doublemotor/target/target_SAI.csv
+# # my_tool/GUI_doublemotor/data/*
+
+**/.DS_Store
+
+my_tool/Destinus
+data
+data_base
+*__pycache__
+my_functions/CNN/tensorboard
+my_functions/CNN_hands_on
+my_functions/postprocessing
+my_functions/*.py
+*data
+**/*.csv
+my_tests/02_test_kamino
+my_tool/GUI_doublemotor
+/my_tool/pygmo_example (1).py
+my_tool/run_pipeline.py
+my_tool/test_file.py
+my_tool/the_main.py
+my_tool/test_pygmo.py
+openmotor
+unnecessary
+useful_plots
+commands.md
+Diary.md
+*.yml
+*.dxf
+*.sh
+save_data.py
+**/*.pth
+**/*.png
+**/*.ric
+**/*.pkl
